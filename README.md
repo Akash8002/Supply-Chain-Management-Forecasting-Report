@@ -84,7 +84,7 @@ The dataset consists of key features related to supply chain operations, includi
 Feel free to fork the repo, submit issues, or create pull requests! 😊
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **GNU GENERAL PUBLIC LICENSE**.
 
 ---
 📌 **Author:** Akash Kumar
